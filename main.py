@@ -7,4 +7,5 @@ def connect_to_db():
 
 
 if __name__ == '__main__':
+    print("starting the program>>>>")
     connect_to_db()
